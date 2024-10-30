@@ -1,0 +1,17 @@
+/*SELECT * FROM vendas;
+
+SELECT Produto, QuantidadeVendida 
+FROM vendas;
+
+SELECT Produto, Categoria, DataVenda 
+FROM vendas 
+WHERE DataVenda > "2024-05-01"; 
+
+SELECT Produto, Valor
+FROM vendas
+WHERE Valor >100; 
+
+SELECT Produto, Valor, DataVenda
+FROM vendas
+WHERE DataVenda >="2024-07-01"
+AND DataVenda <= "2024-09-30";  */
